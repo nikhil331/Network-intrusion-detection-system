@@ -21,9 +21,9 @@ Scalable and adaptable to different network environments
 
 Python
 
-Machine Learning algorithms (e.g., Random Forest, SVM, or Neural Networks)
+Machine Learning algorithms (e.g., Random Forest)
 
-Scikit-learn / TensorFlow / PyTorch (depending on implementation)
+Scikit-learn
 
 Pandas & NumPy for data processing
 
@@ -33,11 +33,7 @@ Matplotlib / Seaborn for visualization
 
 The system is trained and tested using publicly available network security datasets such as:
 
-NSL-KDD
-
-CICIDS
-
-UNSW-NB15
+CIC-IDS2017
 
 These datasets contain labeled network traffic data representing both normal activity and various types of attacks.
 
@@ -75,6 +71,3 @@ Web-based dashboard for monitoring and alerts
 
 Deployment in cloud or edge environments
 
-📜 Disclaimer
-
-This project is intended for educational and research purposes only. It should not be used as a replacement for enterprise-grade security solutions.
